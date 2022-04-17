@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">94534071833-u0eibsuo1bjlgm2sii2b76kvtsd7np9d.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">94534071833</string>
+    <string name="google_api_key" translatable="false">AIzaSyBCEC20rH6rqpXMagIw6LcINPrBlqNbANo</string>
+    <string name="google_app_id" translatable="false">1:94534071833:android:a3f6a134a5a34f033f1c88</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBCEC20rH6rqpXMagIw6LcINPrBlqNbANo</string>
+    <string name="google_storage_bucket" translatable="false">cave-backend.appspot.com</string>
+    <string name="project_id" translatable="false">cave-backend</string>
+</resources>
