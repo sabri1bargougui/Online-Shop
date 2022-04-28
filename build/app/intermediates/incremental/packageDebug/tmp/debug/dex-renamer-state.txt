@@ -1,4 +1,0 @@
-#Sun Apr 17 21:10:35 CET 2022
-base.0=/home/sabri/Desktop/E-Commerce/build/app/intermediates/dex/debug/minifyDebugWithR8/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
